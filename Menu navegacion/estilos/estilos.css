@@ -1,0 +1,25 @@
+h1{
+    color:mediumvioletred
+}
+ul{
+    list-style-type: none;
+    background-color:blueviolet;
+    overflow: hidden;
+    margin:0;
+    padding: 0;
+}
+li{
+    float: left;
+}
+
+li a{
+    display: block;
+    color: aliceblue;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color:deepskyblue ;
+}
